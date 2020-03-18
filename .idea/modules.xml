@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gitdemo20200318.iml" filepath="$PROJECT_DIR$/gitdemo20200318.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-user-manage/gmall-user-manage.iml" filepath="$PROJECT_DIR$/gmall-user-manage/gmall-user-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapper-demo/mapper-demo.iml" filepath="$PROJECT_DIR$/mapper-demo/mapper-demo.iml" />
     </modules>
   </component>
 </project>
